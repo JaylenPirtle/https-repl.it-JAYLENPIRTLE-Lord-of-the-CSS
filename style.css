@@ -1,0 +1,35 @@
+
+div{
+  font-family: 'Berkshire Swash', cursive;
+}
+
+body{
+  background-image: url(https://wallpapercave.com/wp/EMdc6BA.jpg)
+}
+
+p{
+  font-family: 'Berkshire Swash', cursive;
+  color:white;
+  text-shadow: 0px 1px 10px black;
+   border-style: solid;
+}
+
+a{
+  color:crimson;
+}
+
+h1{
+  text-shadow: 0px 1px 10px white;
+  color:white;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+  text-shadow: 0px 1px 10px white;
+  color: blue;
+}
+
+h3{
+   text-shadow: 0px 1px 10px white;
+   color:white;
+}
